@@ -38,7 +38,7 @@ export default function HeroSection() {
           </div>
 
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-[family-name:var(--font-heading)] leading-[1.1] tracking-tight">
-            <span className="text-foreground">77 anos construindo</span>
+            <span className="text-foreground">Há 77 anos construindo</span>
             <br />
             <span className="text-gradient-gold">o futuro da contabilidade.</span>
           </h1>

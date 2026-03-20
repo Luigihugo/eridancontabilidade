@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Eridan Contabilidade | Tradição e Vanguarda desde 1947",
     description:
-      "77 anos construindo o futuro da contabilidade. Tradição, tecnologia e atendimento de excelência.",
+      "Há 77 anos construindo o futuro da contabilidade. Tradição, tecnologia e atendimento de excelência.",
     type: "website",
     locale: "pt_BR",
   },
